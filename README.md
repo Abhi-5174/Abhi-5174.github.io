@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <p align="center">
   
   <a href="https://abhi-5174.github.io/.dev/" target="_blank">
-  <img src="https://github.com/Abhi-5174/Abhi-5174/blob/main/images/website.svg" alt="website" height="35" width="35"/>
+  <img src="https://github.com/Abhi-5174/Abhi-5174/blob/main/images/website.svg" alt="website" height="40" width="40"/>
   </a> &nbsp;
   
   <a href="mailto:abhi8483999@gmail.com" target="_blank">
-  <img src="https://github.com/Abhi-5174/Abhi-5174/blob/main/images/email.svg" alt="website" height="35" width="35"/>
+  <img src="https://github.com/Abhi-5174/Abhi-5174/blob/main/images/email.svg" alt="website" height="40" width="40"/>
   </a>
   
 </p>
@@ -36,32 +36,9 @@ Here are some ideas to get you started:
 <hr>
 
 ### **Languages and Tools:**
-<p align="center"> 
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> &nbsp;
-    
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> &nbsp;
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> 
-  </a> &nbsp;
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> &nbsp;
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> &nbsp;
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.sohamkamani.com/nodejs/expressjs-architecture/express-routing-logo_hu65ba182cd112f2d3d514ed87e891b5a7_31149_678x0_resize_q75_h2_box_3.webp" alt="express" height="30"/>  
-  </a> &nbsp;
-  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,nodejs,express,vscode" alt="My Skills"/>
 </p>
 
 <hr>
