@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
-<h1 align="center">Hi 👋, I'm Abhi </h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">  Hi 👋, I'm Abhi </h1>
+<p align="center">A passionate backend developer from India </p>
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+### **Connect with me:**
 <p align="center">
   
   <a href="https://abhi-5174.github.io/.dev/" target="_blank">
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+### **Languages and Tools:**
 <p align="center"> 
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -57,14 +57,14 @@ Here are some ideas to get you started:
   </a> &nbsp;
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>  
+  <img src="https://www.sohamkamani.com/nodejs/expressjs-architecture/express-routing-logo_hu65ba182cd112f2d3d514ed87e891b5a7_31149_678x0_resize_q75_h2_box_3.webp" alt="express" height="30"/>  
   </a> &nbsp;
   
 </p>
 
 <hr>
 
-<h3 align="left"> Github profile stats:</h3>
+### **Github profile stats:**
 <p>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-5174&show_icons=true&locale=en&layout=compact" alt="abhi-5174" /> &nbsp; 
