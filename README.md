@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 <hr>
 <h1 align="center">  Hi 👋, I'm Abhi </h1>
-<p align="center">A passionate backend developer from India </p>
+<p>
+  I am a backend developer with a strong foundation in building and maintaining scalable web applications using MongoDB, Express.js, JavaScript, and Node.js. With a focus on performance and reliability,  I design APIs, integrate databases, and optimize backend systems to ensure smooth and efficient user experiences. I am committed to writing clean, maintainable code and solving complex technical challenges to deliver high-quality software solutions.
+</p>
 <hr>
 
 ### **Connect with me:**
