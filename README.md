@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
-<h1 align="center">  Hi 👋, I'm Abhi </h1>
+<h1 align="center"> Hi 👋, I'm Abhi </h1>
 <p>
-  I am a backend developer with a strong foundation in building and maintaining scalable web applications using MongoDB, Express.js, JavaScript, and Node.js. With a focus on performance and reliability,  I design APIs, integrate databases, and optimize backend systems to ensure smooth and efficient user experiences. I am committed to writing clean, maintainable code and solving complex technical challenges to deliver high-quality software solutions.
+  I am a passionate backend developer based in Maharashtra, India, with a keen interest in full-stack web development. Currently pursuing 30 week Full-Time web developement course at Masai School, Bengaluru.
+
+  I've a strong foundation in building and maintaining scalable web applications using MongoDB, Express.js, JavaScript, and Node.js. With a focus on performance and reliability,  I design APIs, integrate databases, and optimize backend systems to ensure smooth and efficient user experiences.
 </p>
 <hr>
 
@@ -24,11 +26,11 @@ Here are some ideas to get you started:
 <p align="center">
   
   <a href="https://abhi-5174.github.io/.dev/" target="_blank">
-  <img src="https://github.com/Abhi-5174/Abhi-5174/blob/main/images/website.svg" alt="website" height="40" width="40"/>
+  <img src="./images/website.svg" alt="website" height="40" width="40"/>
   </a> &nbsp;
   
   <a href="mailto:abhi8483999@gmail.com" target="_blank">
-  <img src="https://github.com/Abhi-5174/Abhi-5174/blob/main/images/email.svg" alt="website" height="40" width="40"/>
+  <img src="./images/email.svg" alt="email" height="40" width="40"/>
   </a>
   
 </p>
