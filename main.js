@@ -81,9 +81,9 @@ function locomotive() {
   // after everything is set up, refresh() ScrollTrigger and update LocomotiveScroll because padding may have been added for pinning, etc.
   ScrollTrigger.refresh();
 
-  document.querySelector("#page1 #button11 .aboutbtn").addEventListener("click", () => {
-    locoScroll.scrollTo(document.querySelector("#about_page"), -100);
-  });
+  // document.querySelector("#page1 #button11 .aboutbtn").addEventListener("click", () => {
+  //   locoScroll.scrollTo(document.querySelector("#about_page"), -100);
+  // });
 
   document.querySelector("#page1 #button11 .archivebtn").addEventListener("click", () => {
     locoScroll.scrollTo(document.querySelector("#page2555777"), -100);
@@ -92,6 +92,26 @@ function locomotive() {
   document.querySelector(".logoz").addEventListener("click", () => {
     locoScroll.scrollTo(0);
   });
+
+  // First menu
+
+  document.querySelector("#header .menutext1 #abt1").addEventListener("click", () => {
+    locoScroll.scrollTo(document.querySelector("#about_page"), -100);
+  });
+
+  document.querySelector("#header .menutext1 .proj1").addEventListener("click", () => {
+    locoScroll.scrollTo(document.querySelector(".page2"), -100);
+  });
+
+  document.querySelector("#header .menutext1 #tech1").addEventListener("click", () => {
+    locoScroll.scrollTo(document.querySelector("#tech_page"), -100);
+  });
+
+  document.querySelector("#header .menutext1 #contact1").addEventListener("click", () => {
+    locoScroll.scrollTo(document.querySelector("#contact_page"), -100);
+  });
+
+  // Second menu
 
   document.querySelector("#header .menuitem #abt").addEventListener("click", () => {
     menutogle(event);
@@ -174,6 +194,14 @@ function revealanimation() {
   gsap.to(".logoz", {
     y: 0,
     opacity: 1,
+    delay: 2,
+    duration: 0.8,
+    stagger: 0.2,
+    ease: "expo.inOut"
+  });
+  gsap.from(".menutext1", {
+    y: -50,
+    opacity: 0,
     delay: 2,
     duration: 0.8,
     stagger: 0.2,
