@@ -1327,7 +1327,7 @@ button[aria-expanded="true"] span:last-child {
     font-size: 8vw;
   }
 
-  s .email {
+  .email {
     padding: 3rem 0;
   }
 
@@ -1529,6 +1529,36 @@ button[aria-expanded="true"] span:last-child {
     font-size: 21px;
     margin-top: 25px;
     width: 99%;
+  }
+
+  .page2 .projectpages .projectpagesfirst h2 {
+    font-size: 6.5vw;
+  }
+
+  .page2 .projectpages .projectpagesfirst .explorebtn {
+    height: 40px;
+    width: 40px;
+    font-size: 10px;
+  }
+
+  .page2 .projectpages .projectpagesfirst .explorebtn::after {
+    width: 40px;
+    height: 40px;
+  }
+
+  .page2 .projectpages2 .projectpagesfirst2 h2 {
+    font-size: 6.5vw;
+  }
+
+  .page2 .projectpages2 .projectpagesfirst2 .explorebtn2 {
+    height: 40px;
+    width: 40px;
+    font-size: 10px;
+  }
+
+  .page2 .projectpages2 .projectpagesfirst2 .explorebtn2::after {
+    width: 40px;
+    height: 40px;
   }
 
   #page1 #button11 {
