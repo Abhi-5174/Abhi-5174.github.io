@@ -187,6 +187,16 @@ function cursormover() {
 };
 cursormover();
 
+function downloadResume() {
+  setTimeout(() => {
+    const a = document.createElement("a");
+    a.href = "/resume/Abhishek-Vishwakarma-Resume.pdf";
+    a.download = "Abhishek-Vishwakarma-Resume.pdf";
+    a.click();
+    a.remove();
+  }, 1000);
+};
+
 function revealanimation() {
 
   var t1 = gsap.timeline();
